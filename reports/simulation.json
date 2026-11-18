@@ -1,0 +1,18 @@
+{
+  "open_loop": {
+    "vout_mean_V": 4.966569207250147,
+    "vout_ripple_pp_mV": 18.922607966675997,
+    "iL_ripple_pp_A": 0.25969572140560837,
+    "iL_peak_A": 1.1236651203315176,
+    "design_iL_ripple_A_at_L_chosen": 0.25535475234270416,
+    "settling_time_ms_2pct": 2.2621
+  },
+  "closed_loop": {
+    "startup_overshoot_pct": 0.9035057198925944,
+    "vout_before_step_V": 5.0215957229987325,
+    "vout_after_step_V": 4.999850146540285,
+    "undershoot_mV": 111.73472384747818,
+    "recovery_time_ms_to_within_1pct": 0.23010000000000044,
+    "ripple_after_step_pp_mV": 13.365393402630765
+  }
+}

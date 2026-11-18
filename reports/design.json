@@ -1,0 +1,17 @@
+{
+  "duty_ideal": 0.4166666666666667,
+  "duty_with_diode": 0.4377510040160643,
+  "inductor_ripple_A": 0.3,
+  "L_min_uH": 102.14190093708167,
+  "C_min_uF": 7.499999999999999,
+  "inductor_peak_A": 1.15,
+  "inductor_rms_A": 1.0037429949942367,
+  "L_critical_uH": 15.321285140562251,
+  "ccm_min_load_A": 0.15,
+  "loss_switch_conduction_W": 0.022051706827309246,
+  "loss_switching_W": 0.06,
+  "loss_diode_W": 0.25301204819277107,
+  "loss_inductor_dcr_W": 0.04030000000000001,
+  "total_loss_W": 0.37536375502008035,
+  "efficiency_est": 0.9301696085833212
+}
